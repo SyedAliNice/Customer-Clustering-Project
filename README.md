@@ -1,5 +1,6 @@
 
 # Customer Clustering
+![image alt]()
 # Project Overview
 
 This project focuses on deriving customer insights based on their credit card usage features. It involves data preprocessing, clustering, and dimensionality reduction techniques to segment customers and understand their behavior patterns.
